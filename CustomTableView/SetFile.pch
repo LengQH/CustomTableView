@@ -1,0 +1,14 @@
+//
+//  SetFile.pch
+//  CustomTableView
+//
+//  Created by 冷求慧 on 15/12/29.
+//  Copyright © 2015年 gdd. All rights reserved.
+//
+
+#ifndef SetFile_pch
+#define SetFile_pch
+
+#import "UIView+Extension.h"
+
+#endif
